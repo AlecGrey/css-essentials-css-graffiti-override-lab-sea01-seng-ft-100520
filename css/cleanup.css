@@ -3,6 +3,6 @@ div > .tag-1 {
   display: none;
 }
 
-.tag-1 + #tag-2 {
+.tag-1 + div {
   display: none;
 }
